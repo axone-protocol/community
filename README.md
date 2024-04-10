@@ -7,7 +7,7 @@
 
 Here are the different Discussion categories:
 
-- 📣 [Announcements]([url](https://github.com/axone-protocol/community/discussions/categories/announcements)): Announcements for new features, events, beta programs, surveys, and more!
+- 📣 [Announcements](https://github.com/axone-protocol/community/discussions/categories/announcements)
 - 💬 [General Discussions](https://github.com/axone-protocol/community/discussions/categories/general-discussions): Conversations related to Product features areas that don’t have their own explicit category. Ask questions, share your experiences, and meet fellow Axone druids to help you get the best out of Axone.
 - 🆕 [New to Axone ecosystem](https://github.com/axone-protocol/community/discussions/categories/new-to-axone-ecosystem): Conversations related to getting started on using Axone. For builders entering in the Axone community !
 - 🧑‍💻 [Programming Help](https://github.com/axone-protocol/community/discussions/categories/programming-help): Conversations related to programming languages, open source, and software development. Please review the pinned post for this category’s guidelines prior to posting.
